@@ -1,0 +1,21 @@
+[
+  {
+    "titre": "Réseau et Connectivité",
+    "description": "Installation d'un Réseau sur un site Abidjan.",
+    "categorie": "image",
+    "image": "img/projet1.jpeg",
+    "lien": "#"
+  },
+
+  {
+    "titre": "CyberCafé",
+    "description": "Impression et relure.",
+    "categorie": "image",
+    "image": "img/projet2.jpeg",
+    "lien": "#"
+  }
+
+]
+
+
+  
